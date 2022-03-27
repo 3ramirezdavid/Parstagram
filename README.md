@@ -1,2 +1,2 @@
 # Parstagram
-Instagram Clone
+ Instagram Clone
