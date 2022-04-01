@@ -1,22 +1,28 @@
 PODS:
   - Bolts/Tasks (1.9.1)
+  - MessageInputBar (0.4.1):
+    - MessageInputBar/Core (= 0.4.1)
+  - MessageInputBar/Core (0.4.1)
   - Parse (1.19.3):
     - Parse/Core (= 1.19.3)
   - Parse/Core (1.19.3):
     - Bolts/Tasks (= 1.9.1)
 
 DEPENDENCIES:
+  - MessageInputBar
   - Parse
 
 SPEC REPOS:
   trunk:
     - Bolts
+    - MessageInputBar
     - Parse
 
 SPEC CHECKSUMS:
   Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
+  MessageInputBar: e81c7535347f1f7b923de7080409a535a004b6e4
   Parse: 0abb63a0ff6fa34a3f64b81d595a294e2ece143a
 
-PODFILE CHECKSUM: 5dad863a0de12af373c53a47807d57f36e144880
+PODFILE CHECKSUM: 5282f5d29c7808fd85f50222b3a8be31cba08ab5
 
 COCOAPODS: 1.11.2
