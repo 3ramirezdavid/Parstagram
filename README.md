@@ -6,7 +6,7 @@ Time spent: **X** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following **8** functionality is completed:
 
 - [x] User stays logged in across restarts. (1pt)
 - [x] User can log out. (1pt)
